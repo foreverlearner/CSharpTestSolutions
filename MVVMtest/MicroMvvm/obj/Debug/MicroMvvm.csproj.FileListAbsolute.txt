@@ -1,0 +1,4 @@
+D:\study\Csharp\TestsSolutions\MVVMtest\MicroMvvm\bin\Debug\MicroMvvm.dll
+D:\study\Csharp\TestsSolutions\MVVMtest\MicroMvvm\bin\Debug\MicroMvvm.pdb
+D:\study\Csharp\TestsSolutions\MVVMtest\MicroMvvm\obj\Debug\MicroMvvm.dll
+D:\study\Csharp\TestsSolutions\MVVMtest\MicroMvvm\obj\Debug\MicroMvvm.pdb

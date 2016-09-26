@@ -1,0 +1,17 @@
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MVVMtest.exe.config
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MVVMtest.exe
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MVVMtest.pdb
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.csprojResolveAssemblyReference.cache
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MainWindow.g.cs
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\App.g.cs
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest_MarkupCompile.cache
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest_MarkupCompile.lref
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MainWindow.baml
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.g.resources
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.Properties.Resources.resources
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.csproj.GenerateResource.Cache
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.exe
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.pdb
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MicroMvvm.dll
+D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MicroMvvm.pdb
