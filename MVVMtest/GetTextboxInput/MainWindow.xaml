@@ -1,0 +1,31 @@
+﻿<Window x:Class="GetTextboxInput.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GetTextboxInput"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <!-- Declaratively create an instance of our SongViewModel -->
+        <local:Numbers />
+    </Window.DataContext>
+    <Grid HorizontalAlignment="Center" VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="First No: " />
+        <TextBox Grid.Column="1" Width="50" Text="{Binding FirstNo}" />
+        <TextBlock Grid.Row="1" Text="Second No:" />
+        <TextBox Grid.Column="1" Grid.Row="1" Width="50" Text="{Binding SecondNo, Mode=TwoWay}" />
+        <Button Grid.Row="2" Grid.ColumnSpan="2" Margin="6" Content="Add" Click="Button_Click" />
+        <TextBox Text="{Binding Answer, Mode=OneWay}" Grid.Row="3" Grid.ColumnSpan="2" />
+    </Grid>
+</Window>

@@ -15,3 +15,6 @@ D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.exe
 D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.pdb
 D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MicroMvvm.dll
 D:\study\Csharp\TestsSolutions\MVVMtest\MVVMtest\bin\Debug\MicroMvvm.pdb
+D:\TestCode\CSharpTestSolutions\MVVMtest\MVVMtest\bin\Debug\MVVMtest.exe.config
+D:\TestCode\CSharpTestSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.exe
+D:\TestCode\CSharpTestSolutions\MVVMtest\MVVMtest\obj\Debug\MVVMtest.pdb

@@ -1,0 +1,15 @@
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\bin\Debug\GetTextboxInput.exe.config
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\bin\Debug\GetTextboxInput.exe
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\bin\Debug\GetTextboxInput.pdb
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput.csprojResolveAssemblyReference.cache
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\MainWindow.g.cs
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\App.g.cs
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput_MarkupCompile.cache
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput_MarkupCompile.lref
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\MainWindow.baml
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput.g.resources
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput.Properties.Resources.resources
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput.csproj.GenerateResource.Cache
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput.exe
+D:\TestCode\CSharpTestSolutions\MVVMtest\GetTextboxInput\obj\Debug\GetTextboxInput.pdb
