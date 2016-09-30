@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTest", "TaskTest\TaskTest.csproj", "{AE404415-BCD8-4F63-841A-23F57C3FDCE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitTest", "AsyncAwaitTest\AsyncAwaitTest.csproj", "{4B991499-A755-488A-9998-319F2FC604FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFlowTest", "AsyncFlowTest\AsyncFlowTest.csproj", "{395F166B-36A1-4B3C-9E5E-CA161A2EA0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE404415-BCD8-4F63-841A-23F57C3FDCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE404415-BCD8-4F63-841A-23F57C3FDCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE404415-BCD8-4F63-841A-23F57C3FDCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE404415-BCD8-4F63-841A-23F57C3FDCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B991499-A755-488A-9998-319F2FC604FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B991499-A755-488A-9998-319F2FC604FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B991499-A755-488A-9998-319F2FC604FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B991499-A755-488A-9998-319F2FC604FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395F166B-36A1-4B3C-9E5E-CA161A2EA0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395F166B-36A1-4B3C-9E5E-CA161A2EA0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395F166B-36A1-4B3C-9E5E-CA161A2EA0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395F166B-36A1-4B3C-9E5E-CA161A2EA0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
